@@ -19,7 +19,7 @@ npm install hexo --save
 npm install
 ```
 
-## 创建文章
+创建文章
 ```
 $ hexo new "My New Post"
 ```
