@@ -19,6 +19,8 @@ npm install hexo --save
 npm install
 ```
 
+## hexo命令
+
 创建文章
 ```
 $ hexo new "My New Post"
@@ -28,8 +30,6 @@ $ hexo new "My New Post"
 ```
 hexo s
 ```
-
-## hexo命令
 
 生成静态文件
 ```
