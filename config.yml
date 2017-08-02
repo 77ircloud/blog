@@ -1,3 +1,5 @@
+organization: true
+
 # site title
 title: IRcloud‘s Blog
 
@@ -13,7 +15,7 @@ authors:
 # token
 # token should be separated by '#'
 # example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
-token: 4#15c377536a81a3bd9e2a9a8f0173d22e915a923
+token: 58a9#80d14cadc76fc741b473987bbbee24e62457
 
 # posts per page
 perpage: 10
